@@ -11,3 +11,4 @@ hello git
 
 git add 文件名 表示将文件提交到储存区
 git status 查看当前git的状态
+hot fix 修改:
